@@ -10,10 +10,11 @@ body {
 	background-color: white;
 	border-radius: 15px;
 	width: 300px;
+	border: none
 	padding: 5px;
-	height: 350px;
 	display: inline-block;
 	margin-left:15px;
+	
 }
 .photo {
 	margin-left:5px;
